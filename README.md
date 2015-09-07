@@ -4,7 +4,7 @@ Andrej Shevchenko
 
 4/Start Complete
 5/PHP Comlete
-21/MFC Reading
+21/MFC Comlete
 28/JS Wait
 32/MySQL Wait
 41/CSS Wait
